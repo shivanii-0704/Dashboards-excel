@@ -52,8 +52,8 @@ The dataset contains coffee shop transaction records including:
 This dashboard transforms raw sales data into meaningful insights that help businesses make data-driven decisions and improve operational performance.
 
 ## 📸 Dashboard Preview
+<img width="617" height="255" alt="image" src="https://github.com/user-attachments/assets/72fa0385-1b15-419d-83e1-7f458b8818a7" />
 
-![Coffee Shop Dashboard](Screenshot 2026-06-01 210044 (1).png)
 
 ## 👩‍💻 Author
 Shivani  
